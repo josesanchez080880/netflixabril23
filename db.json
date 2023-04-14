@@ -1,12 +1,28 @@
 {
      "AmiFlixdata" : [
         {
-        "Title": "Ant-Man and the Wasp Quantumania (2023)",
-        "Image": "https://i.postimg.cc/CxRMfnhk/ezgif-3-3dc856216b-1024x576.jpg",
+        "Title": "John Wick (Otro día para matar) (2014)",
+        "Image": "https://images.justwatch.com/poster/301802463/s718/john-wick.%7Bformat%7D",
         "MainCategory": "Movies",
-        "Geans": "Adventure",
-        "FileID": "6it862t95q43",    
+        "Geans": "Acción, Crimen, Venganza",
+        "FileID": "na8gkobl90b1",    
         "id": 1
+        }, 
+        {
+        "Title": "John Wick 2: un nuevo día para matar (2017)",
+        "Image": "https://m.media-amazon.com/images/I/81zur+RwWHL._AC_SL1500_.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Acción, Crimen, Venganza",
+        "FileID": "5hjonqxynjf9",    
+        "id": 2
+        }
+        {
+        "Title": "John Wick 3: Parabellum (2019)",
+        "Image": "https://musicart.xboxlive.com/7/261e5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "MainCategory": "Movies",
+        "Geans": "Acción, Crimen, Venganza",
+        "FileID": "d00n16s7hscy",    
+        "id": 3
         } 
     ]
 }
