@@ -1,6 +1,14 @@
 {
      "AmiFlixdata" : [
          {
+         "Title": "Las leyendas de una nueva Era (1983)",
+         "Image": "https://www.themoviedb.org/t/p/w500/kgRLZ95mibXMb6UjPhly0W92IUs.jpg",
+         "MainCategory": "Movies",
+         "Geans": "Webseries",
+         "FileID": "t-g-saint-seiya-001",
+         "id": 5
+        },
+          {
          "Title": "Back To The Future (1985)",
          "Image": "https://resizing.flixster.com/ss8tqkq_c0v9uPB4-NQB5GcLfpA=/300x300/v2/https://flxt.tmsimg.com/assets/p8717_v_v13_ax.jpg",
          "MainCategory": "Movies",
@@ -12,7 +20,7 @@
         "Title": "John Wick 3: Parabellum (2019)",
         "Image": "https://musicart.xboxlive.com/7/261e5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
         "MainCategory": "Movies",
-        "Geans": "Acción, Crimen, Venganza",
+        "Geans": "Action",
         "FileID": "d00n16s7hscy",    
         "id": 3
         }, 
@@ -20,7 +28,7 @@
         "Title": "John Wick 2: un nuevo día para matar (2017)",
         "Image": "https://m.media-amazon.com/images/I/81zur+RwWHL._AC_SL1500_.jpg",
         "MainCategory": "Movies",
-        "Geans": "Acción, Crimen, Venganza",
+        "Geans": "Acción",
         "FileID": "5hjonqxynjf9",    
         "id": 2
         },
@@ -28,7 +36,7 @@
         "Title": "John Wick (Otro día para matar) (2014)",
         "Image": "https://images.justwatch.com/poster/301802463/s718/john-wick.%7Bformat%7D",
         "MainCategory": "Movies",
-        "Geans": "Acción, Crimen, Venganza",
+        "Geans": "Acción",
         "FileID": "na8gkobl90b1",    
         "id": 1
         } 
