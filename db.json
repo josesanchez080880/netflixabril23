@@ -7,17 +7,9 @@
         "Geans": "Action",
         "FileID": "u147m5xb94xg",
         "Plateform":"Doodstream",     
-        "id": 6
+        "id": 5
         },
-         {
-         "Title": "Las leyendas de una nueva Era (1983)",
-         "Image": "https://www.themoviedb.org/t/p/w500/kgRLZ95mibXMb6UjPhly0W92IUs.jpg",
-         "MainCategory": "Movies",
-         "Geans": "Webseries",
-         "FileID": "t-g-saint-seiya-001",
-         "id": 5
-        },
-          {
+        {
          "Title": "Back To The Future (1985)",
          "Image": "https://resizing.flixster.com/ss8tqkq_c0v9uPB4-NQB5GcLfpA=/300x300/v2/https://flxt.tmsimg.com/assets/p8717_v_v13_ax.jpg",
          "MainCategory": "Movies",
