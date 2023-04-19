@@ -1,5 +1,14 @@
 {
      "AmiFlixdata" : [
+        {
+        "Title": "Fall S1",
+        "Image": "https://img.doodcdn.co/cover/t3koai8jh5w6vek3-zrmcaexnqpt0.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "u147m5xb94xg",
+        "Plateform":"Doodstream",     
+        "id": 6
+        },
          {
          "Title": "Las leyendas de una nueva Era (1983)",
          "Image": "https://www.themoviedb.org/t/p/w500/kgRLZ95mibXMb6UjPhly0W92IUs.jpg",
